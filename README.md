@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there, I'm Pedro. 👋
+- 🌱 I’m currently learning Architectural Designs & Patterns.
+
+![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=radical)
+
 
 <!--
 **zpdh/zpdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
