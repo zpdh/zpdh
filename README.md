@@ -1,7 +1,4 @@
-## Hello there, I'm Pedro. 👋
-- 🌱 I’m currently learning Architectural Designs & Patterns.
-
-![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=radical)
+![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=radical&hide=stars,issues,contribs)
 
 
 <!--
