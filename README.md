@@ -4,6 +4,8 @@
 - ❤️ My favorite programming language is C#
 - 🚀 I started programming in 2018, with Python 🐍
 
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpdh&layout=donut&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
