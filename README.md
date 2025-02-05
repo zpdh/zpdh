@@ -1,4 +1,5 @@
-![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=radical&hide=stars,issues,contribs)
+![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=github-dark&hide=stars,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpdh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
