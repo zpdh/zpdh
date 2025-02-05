@@ -1,4 +1,6 @@
-![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=ayu-mirage&hide=stars,issues,contribs)
+# Hi! I'm Pedro ⚡
+
+![zpdh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpdh&show_icons=true&theme=ayu-mirage&hide=stars,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpdh&layout=donut&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
